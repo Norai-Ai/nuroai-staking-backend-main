@@ -1,6 +1,6 @@
-# NuroAI Staking Backend
+# Norai Staking Backend
 
-This repository contains the backend for the NuroAI staking dApp. It provides APIs to interact with the Ethereum blockchain for staking, unstaking, and claiming rewards.
+This repository contains the backend for the Norai staking dApp. It provides APIs to interact with the Ethereum blockchain for staking, unstaking, and claiming rewards.
 
 ## Features
 
@@ -12,7 +12,7 @@ This repository contains the backend for the NuroAI staking dApp. It provides AP
 ## Folder Structure
 
 ```
-nuroai-staking-backend/
+Norai-staking-backend/
 ├── abi/                    # Contains the smart contract ABI
 ├── routes/                 # Defines API routes
 ├── utils/                  # Contains utility scripts

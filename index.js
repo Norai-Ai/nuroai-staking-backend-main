@@ -11,5 +11,5 @@ app.use('/api/staking', stakingRoutes);
 // Start the server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`NuroAI Staking Backend running on port ${PORT}`);
+    console.log(`Norai Staking Backend running on port ${PORT}`);
 });
